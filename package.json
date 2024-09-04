@@ -1,0 +1,23 @@
+{
+  "name": "keeps-mini",
+  "version": "1.0.0",
+  "description": "To-Do mini app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "to-do",
+    "notes"
+  ],
+  "author": "Suraj Chauhan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

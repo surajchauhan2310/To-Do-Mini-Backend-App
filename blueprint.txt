@@ -1,0 +1,11 @@
+1. Create a package.json(install dependencies) >
+2. Create a app.js. >
+3. define express.js in app.js >
+4. use body as a middleware 
+5. create new file for the model and define Schema >
+6. import model in app.js and define mongoDB connection using mongoose >
+7. configure PORT to listen the app > 
+8. start the app >
+9. define routes using router 
+10. import routes in app.js
+11. restart and test the application 
